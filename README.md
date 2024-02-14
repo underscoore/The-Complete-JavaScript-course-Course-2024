@@ -1,11 +1,53 @@
 # Complete JavaScript Couse 2024
 
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
+[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Find me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay110/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/underscoore)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ajayonx)
+
+Welcome to the JavaScript Programming Course! This course is designed to provide you with a comprehensive understanding of JavaScript, one of the most widely-used programming languages in web development today.
+
+## Course Overview
+
+JavaScript is a versatile language that powers the interactive elements of websites, making it an essential skill for front-end developers. In this course, you will learn the fundamentals of JavaScript programming, including:
+
+- **Basic Syntax:** Understand the syntax and structure of JavaScript code.
+- **Data Types and Variables:** Explore different data types such as strings, numbers, arrays, and objects, and learn how to declare and manipulate variables.
+- **Control Flow:** Master control flow structures including if statements, loops, and switch statements to control the execution of your code.
+- **Functions:** Learn how to define and invoke functions, pass parameters, and return values.
+- **DOM Manipulation:** Discover how to manipulate the Document Object Model (DOM) to create dynamic and interactive web pages.
+- **Events:** Handle user interactions and respond to events such as clicks, mouse movements, and keyboard inputs.
+- **Asynchronous JavaScript:** Understand asynchronous programming concepts using callbacks, promises, and async/await to work with asynchronous tasks effectively.
+
+## Prerequisites
+
+This course is designed for beginners with no prior programming experience. However, a basic understanding of HTML and CSS will be beneficial.
+
+## Course Structure
+
+The course is divided into several modules, each covering specific topics with hands-on exercises and coding challenges to reinforce your learning. Whether you're a beginner looking to start your journey into web development or an experienced programmer aiming to enhance your JavaScript skills, this course offers something for everyone.
+
+## Getting Started
+
+To get started with the course, simply clone or download the repository and follow the instructions provided in each module's README file. You can also join our community forums to connect with fellow learners, ask questions, and share your experiences.
+
+---
+
+Feel free to customize the introduction to suit your course's specific goals and target audience. Good luck with your JavaScript course!
+
 ## Course Content
 
 <details>
-<summary>Section 1: Welcome</summary>
+<summary>
+Section 1: Welcome
+</summary>
 
-1. Course Structure and Projects
+1. [Course Structure and Projects](https://google.com)
 2. Read Before You Start!
 3. Watch Before You Start!
 4. Setting Up Code Editor
@@ -316,3 +358,7 @@
 229. Pushing to GitHub
 230. Setting Up Continuous Intregration with Netlify
 </details>
+
+## Explore other resources :
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
