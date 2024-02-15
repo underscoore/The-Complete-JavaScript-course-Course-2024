@@ -1,7 +1,7 @@
-# Complete JavaScript Couse 2024
+[![Image](JavaScript_Banner.png)]()
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1)
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Find me:
@@ -47,10 +47,9 @@ Feel free to customize the introduction to suit your course's specific goals and
 Section 1: Welcome
 </summary>
 
-1. [Course Structure and Projects](https://google.com)
-2. Read Before You Start!
-3. Watch Before You Start!
-4. Setting Up Code Editor
+1. Course Structure and Projects
+2. Watch Before You Start!
+3. Setting Up Code Editor
 </details>
 
 <details>
@@ -345,7 +344,7 @@ Section 1: Welcome
 </details>
 
 <details>
-<summary> Section 16: COMPLETE PROJECT (Surprice)</summary>
+<summary> Section 16: COMPLETE PROJECT (Surprise)</summary>
 </details>
 
 <details>
@@ -361,4 +360,4 @@ Section 1: Welcome
 
 ## Explore other resources :
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOMhPc0ggdhZ9GKqsLAkp4A?sub_confirmation=1)
